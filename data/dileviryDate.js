@@ -1,0 +1,1 @@
+export let deliveryProduct=[{deliveryId:1,deliveryDays:7,priceincent:0},{deliveryId:2,deliveryDays:5,priceincent:499},{deliveryId:3,deliveryDays:3,priceincent:999}]
