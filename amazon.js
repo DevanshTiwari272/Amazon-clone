@@ -1,4 +1,4 @@
-import { cart, updateCart } from "/data/cart.js";
+import { cart, updateCart } from "./data/cart.js";
 import { toGet } from "./data/products.js";
 import { formatCurrency } from "./utils/money.js";
 let i = "";
